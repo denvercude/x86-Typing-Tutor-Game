@@ -4,7 +4,7 @@ Final project for an x86 assembly language class. This typing tutor game feature
 
 ## Demo Video
 
-Watch the [demo video](https://youtu.be/5nxsP13CGK8) to see how the typing tutor game works in action.
+[![Typing Tutor Game Demo](https://img.youtube.com/vi/example/0.jpg)](https://www.youtube.com/watch?v=5nxsP13CGK8)
 
 ## Features
 - Start menu to begin or exit the game
@@ -12,9 +12,3 @@ Watch the [demo video](https://youtu.be/5nxsP13CGK8) to see how the typing tutor
 - Game screen with character-based UI
 - Real-time feedback on user input
 - Score tracking
-
-## How to Build and Run
-[Provide instructions here]
-
-## License
-[Include license information here if applicable]
