@@ -4,7 +4,7 @@ Final project for an x86 assembly language class. This typing tutor game feature
 
 ## Demo Video
 
-[![Typing Tutor Game Demo](https://img.youtube.com/vi/5nxsP13CGK8/0.jpg)](https://www.youtube.com/watch?v=5nxsP13CGK8)
+[![Watch the video](https://img.youtube.com/vi/wF3bQWRroZg/0.jpg)](https://www.youtube.com/watch?v=wF3bQWRroZg)
 
 ## Features
 - Start menu to begin or exit the game
